@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "debug": "~0.7.2",
-    "dbus-native": "~0.0.13"
+    "dbus": "~0.2.8"
   },
   "devDependencies": {
     "jshint": "latest",
